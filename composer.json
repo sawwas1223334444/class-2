@@ -1,18 +1,16 @@
 {
-    "name":"serg/repo",
-    "type": "library",
+    "name": "serg/repo",
+    "type": "project",
     "autoload": {
         "psr-4": {
-            "Serg\\Repo\\":"src/" 
+            "Serg\\Repo\\": "src/"
         }
     },
     "autthors": [
         {
-            "name": "Karina Sergeeva",
+            "name": "Serg",
             "email": "skarina.021007@gmail.com"
         }
     ],
-    "require":{
-
-    }
+    "require": {}
 }
