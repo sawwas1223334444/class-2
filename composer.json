@@ -1,16 +1,18 @@
 {
-    "name": "serg/repo",
-    "type": "project",
+    "name": "serg/repo-core",
+    "description": "Core classes for Chocolate Factory",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Serg\\Repo\\": "src/"
         }
     },
-    "autthors": [
+    "authors": [
         {
             "name": "Serg",
             "email": "skarina.021007@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
